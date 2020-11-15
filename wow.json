@@ -1,0 +1,16 @@
+{
+  "character": {
+    "name": "TheBakher",
+    "level": "60",
+    "race": "Dwarf",
+    "class": "Hunter",
+    "equip": {
+      "head": "Dragonslayer helmet",
+      "chest": "Murlockiller chest",
+      "gloves": "Leroy jenkins gloves",
+      "pants": "Demonsaur pants",
+      "boots": "Baggins boots",
+      "weapon": "Epic Handcannon"
+    }
+  }
+}
