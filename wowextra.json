@@ -3,7 +3,7 @@
     "name": "TheBakher",
     "level": "60",
     "race": "Dwarf",
-    "class": "Hunter",
+    "wowclass": "Hunter",
     "equip": {
       "head": "Dragonslayer helmet",
       "chest": "Murlockiller chest",
@@ -17,7 +17,7 @@
       "name": "Xzeup",
       "level": "60",
       "race": "Orc",
-      "class": "Warrior",
+      "wowclass": "Warrior",
       "equip": {
         "head": "Dragonslayer helmet",
         "chest": "Murlockiller chest",
