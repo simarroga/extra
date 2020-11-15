@@ -1,5 +1,6 @@
 {
-  "character": {
+  "character": [
+    {
     "name": "TheBakher",
     "level": "60",
     "race": "Dwarf",
@@ -11,6 +12,21 @@
       "pants": "Demonsaur pants",
       "boots": "Baggins boots",
       "weapon": "Epic Handcannon"
-    }
-  }
+        }
+      },
+      {
+      "name": "Xzeup",
+      "level": "60",
+      "race": "Orc",
+      "class": "Warrior",
+      "equip": {
+        "head": "Dragonslayer helmet",
+        "chest": "Murlockiller chest",
+        "gloves": "Leroy jenkins gloves",
+        "pants": "Demonsaur pants",
+        "boots": "Baggins boots",
+        "weapon": "Epic Sword"
+          }
+        }
+  ]
 }
